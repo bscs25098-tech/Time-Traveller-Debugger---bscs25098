@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="TimeTravellerDebugger - bscs25098 - Project.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="progress.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
